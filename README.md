@@ -23,7 +23,7 @@
 
 <br />
 
-Olá, Eu sou [Samuel Marques](https://www.instagram.com/samuell.marqs/), eu sou Full Stack Developer 🚀, atualmente eu sou colaborador do projeto, [@DevInDev](https://www.instagram.com/devindev.br/). E estagiario na empresa [@ANIGER](https://52.67.138.254). Além de programação, eu amo a natureza e conhecer pessoas.
+Olá, Eu sou [Samuel Marques](https://www.instagram.com/samuell.marqs/), eu sou Full Stack Developer 🚀, atualmente eu sou colaborador do projeto, [@DevInDev](https://www.instagram.com/devindev.br/). E estagiário na empresa [@ANIGER](https://52.67.138.254) como analista de dados. Além de programação, eu amo a natureza e conhecer pessoas.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
