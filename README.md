@@ -31,6 +31,7 @@ Olá, Eu sou [Samuel Marques](https://www.instagram.com/samuell.marqs/), eu sou 
 
 - 🧑🏻 Atualmente estou trabalhando em varios projetos legais. :wink:;
 - 🌱 Atualmente estou aprendendo JavaScript e PHP; 
+- 🤘🏻  Minhas Staks são: Java, JavaScript, HTML && CSS, React && React-Native, Node-JS;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Você pode me encontrar em: [@Samuel-Linkedin](https://www.linkedin.com/in/samuel-marques-57303a170/);
 
