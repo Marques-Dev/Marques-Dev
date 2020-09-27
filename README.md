@@ -27,7 +27,7 @@ Olá, Eu sou [Samuel Marques](https://www.instagram.com/samuell.marqs/), eu sou 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Coisas pessoais:**
 
 - 🧑🏻 Atualmente estou trabalhando em varios projetos legais. :wink:;
 - 🌱 Atualmente estou aprendendo JavaScript e PHP; 
