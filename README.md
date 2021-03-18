@@ -23,7 +23,7 @@
 
 <br />
 
-Olá, Eu sou [Samuel Marques](https://marques-dev.github.io/portfolio/index.html), eu sou Full Stack Developer 🚀, atualmente eu sou colaborador do projeto, [@DevInDev](https://www.instagram.com/devindev.br/). Sou Full Stack Developer na empresa [@QPreço](https://www.appqpreco.com.br). Além de programação, eu amo a natureza e conhecer pessoas.
+Olá, Eu sou [Samuel Marques](https://marques-dev.github.io/portfolio/index.html), eu sou Desenvolvedor e um aspirante de segurança e analise de redes 🚀, atualmente eu sou colaborador do projeto, [@DevInDev](https://www.instagram.com/devindev.br/). Atualmente estou trabalhando em analise de redes e suporte remoto na empresa [@Conecta](https://www.conectace.com.br). Além de programação, eu amo natureza, conhecer pessoas e lugares.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
